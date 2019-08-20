@@ -17,11 +17,19 @@ Before you get started on this lab, be sure to preview the Student Notes for thi
 |:--:| 
 |*Illustration of how to import a costume. In this picture, the "Dog2 a" costume has already been imported. The user is about to import the "Dog 2b" costume*|
 
-2) Write a script to make the sprite change costume each time the space bar is pressed. The sprite should switch back and forth between the two costumes.
+2) Add code so that the sprite changes to the next costume each time the left arrow key is pressed. 
 
-3) Add code so that the sprite will face to the left, move a few steps, and change costume when the left arrow key is pressed. If you've done it right, it should look like the dog is walking when you press the left arrow key repeatedly.
+3) Add code so that the sprite does the following when you press the left arrow key:
+  - Faces to the left
+  > *Hint: The Student Notes for this lesson explain how to use the rotation buttons in the Costumes tab toolbar to make sure a sprite only points in certain directions!*
+  - Moves a few steps to the left
+  > *Hint: It should look like the dog is walking when you press the left arrow key repeatedly!*
 
-1.4) Add code so that the dog can walk to the right as well.
+4) Add code so that if the dog reaches the edge of the stage, it bounces.
+  >*Hint: You will need one of the blocks in the "Motion" category for this!
+
+(STOPPED HERE - NEXT STEP WILL BE TO ADD DIRECTIONS TO DUPLICATE SCRIPT FOR RIGHT ARROW KEY)
+5) 
 
 ## 2. Here be Dragons!
 
