@@ -18,32 +18,46 @@ Students will be able to...
 
 | Duration   | Description                                   |
 | ---------- | --------------------------------------------- |
-| 10 minutes  | Welcome, attendance, bell work, announcements |
-| 10 minutes | Lecture and introduce activity                |
-| 25 minutes | Animation activity                            |
-| 10 minutes | Debrief and wrap-up                           |
+| 5 minutes  | Welcome, attendance, individual activity (Do Now 1.4)|
+| 10 minutes | Announcements, think-pair-share (Do Now 1.4)  |
+| 5 minutes | Preview (Lab 1.4) |
+| 25 minutes | Pair-programming (Lab 1.4) |
+| 10 minutes | Debrief (Lab 1.4)  |
 
 ## Instructor's Notes
 
-1.  Warm-up
-    - Ask students to complete [Do Now 1.4: Example Animation](do_now_14.md). 
+### Do Now 1.4: Sprite Animation ###
 
-2.  Think, Pair, Share
-    -  Ask students to think about the first five steps required to recreate the bat project from Do Now 1.4. After students think about the answer independently for a few minutes, ask them to share their ideas with a partner. Then, ask partners to share their ideas with the class. Point out any differences in students' answers, and emphasize that nearly all computer science problems have more than one correct answer.
+1.  **Individual activity (5 minutes)** 
+    - Ask students to work individually on [Do Now 1.4: Example Animation](do_now_14.md). 
 
-3.  Lab Preview
-    -  Review the Learning Objectives for Lab 1.4 
-    -  Briefly preview the following features of Snap, and let students know they will fully explore each feature during Lab 1.4:
+2.  **Think-pair-share (10 minutes)** 
+    - Give students a minute to think individually about the last question on Do Now 1.4. Then, ask them to share their ideas with a partner. Finally, ask partners to share their ideas with the class. Be sure to point out any differences in students' answers, and emphasize that nearly all computer science problems have more than one correct answer.
+
+### Lab 1.4: Sprites in Action ###
+
+1.  **Preview** 
+    -  State the Learning Objectives for Lab 1.4 
+        -   Animate SNAP sprites using costume changes and movement
+        -   Use broadcast and receive blocks to trigger actions in sprites. 
+    -  Briefly preview the following new vocabulary words:
+        - Animation
+        - Costume
+        - Broadcast block
+        - Receive block
+        (Note: Remind students that they can use the Glossary to look up words they don't know. If you have a Word Wall, point out the location of the new vocabulary terms for this lesson.)
+    - Briefly preview the following new features of Snap:
         - Broadcast and receive blocks
         - Costumes tab
         - Sprite Corral
-        (Note: Be sure to point out the toolbars in the Costumes tab and the Sprite Corral. Also be sure to point out the difference between the menu options that are available when you right-click a costume icon in the Costumes tab, Stage, or Sprite Corral).       
+        (Note: Be sure to point out the toolbars for the Costumes tab and the Sprite Corral. Also be sure to point out the difference between the menu options that are available when you right-click a costume icon in the Costumes tab, Stage, or Sprite Corral).       
     
-2.  Pair-Programming Activity
+2.  **Pair-Programming** 
     -   Students should complete the ["Sprites in Action"](lab_14.md) lab in pairs.
         -   Ensure that students create two different sprites for parts 1 and 2 so they do not get the costumes mixed up.
         -   Students can submit the assignment using your turn-in procedures or you can check off the work as students complete it.
-3.  Debrief
+        
+3. **Debrief** 
     -   Ask a student to show their solution to each part. Call on a different student (either a volunteer or via cold calling) for part 1 and part 2.
     -   Note any places in which there may be multiple possible approaches. Ask for volunteers to describe differences in their code.
 
