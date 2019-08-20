@@ -15,6 +15,4 @@
 > *Hint: It may be helpful to activate "visual steps" with the footprint icon near the middle of the top toolbar.*
 
 **If there's still time, discuss the following questions with your partner.**
-* What are the first five steps you need to complete to recreate this project from scratch? How would you write those steps in pseudocode?.
-
-
+* What are the first five steps you need to complete to recreate this project from scratch? 
