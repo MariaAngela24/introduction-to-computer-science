@@ -14,5 +14,5 @@
 5.  Look at the scripts for this project. Explore all the parts of the Snap window, including the tabs at the top of the scripting area and the icons in the Sprite Corral. Try to figure out how the project works.
 > *Hint: It may be helpful to activate "visual steps" with the footprint icon near the middle of the top toolbar.*
 
-**If there's still time, discuss the following questions with your partner.**
+**If there's still time, start brainstorming ideas for how to answer this question:**
 * What are the first five steps you need to complete to recreate this project from scratch? 
