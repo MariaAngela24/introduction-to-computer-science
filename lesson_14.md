@@ -29,18 +29,18 @@ Students will be able to...
     - Ask students to complete [Do Now 1.4: Example Animation](do_now_14.md). 
 
 2.  Think, Pair, Share
-    -  Ask pairs of students to think, pair, and share ideas for the first five steps needed to create the bat project from Do Now 1.4 from scratch. Point out any differences in their answers, and emphasize there is more than one correct answer.
+    -  Ask students to think about the first five steps required to recreate the bat project from Do Now 1.4. After students think about the answer independently for a few minutes, ask them to share their ideas with a partner. Then, ask partners to share their ideas with the class. Point out any differences in students' answers, and emphasize that nearly all computer science problems have more than one correct answer.
 
 3.  Lab Preview
     -  Review the Learning Objectives for Lab 1.4 
-    -  Briefly preview the following features of Snap and let students know they will fully explore each feature during Lab 1.4:
+    -  Briefly preview the following features of Snap, and let students know they will fully explore each feature during Lab 1.4:
         - Broadcast and receive blocks
         - Costumes tab
         - Sprite Corral
-        (Note: Be sure to point out the toolbars in the Costumes tab and the Sprite Corral. Also be sure to point out the different menu options that are available when you right-click a costume icon in the Costumes tab, Stage, and Sprite Corral).       
+        (Note: Be sure to point out the toolbars in the Costumes tab and the Sprite Corral. Also be sure to point out the difference between the menu options that are available when you right-click a costume icon in the Costumes tab, Stage, or Sprite Corral).       
     
-2.  Activity
-    -   Students should complete the ["Sprites in Action"](lab_14.md) lab individually.
+2.  Pair-Programming Activity
+    -   Students should complete the ["Sprites in Action"](lab_14.md) lab in pairs.
         -   Ensure that students create two different sprites for parts 1 and 2 so they do not get the costumes mixed up.
         -   Students can submit the assignment using your turn-in procedures or you can check off the work as students complete it.
 3.  Debrief
