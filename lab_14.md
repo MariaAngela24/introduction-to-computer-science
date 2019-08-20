@@ -1,13 +1,17 @@
 <!--- REVISED -->
 # Lab 1.4: Sprites in Action
 
-In this lab, you will use costumes and movement to create simple SNAP animations.
+In this lab, you will use costumes and movement to create simple SNAP animations. You will also use broadcast and receive blocks to trigger actions in sprites.
 
-## 1. Run, Spot, Run!
+## Minimum Viable Product: Run, Spot, Run!
 
-1.1) In a SNAP project, click on the file menu, then click costumes.  Import the costumes "dog2-b" and "dog2-c".
+1) In a SNAP project, click on the Costumes tab. Then, click on the file menu and choose the "Costumes" option. Import the costumes "dog2-a" and "dog2-b".
 
 ![Menu->Costumes](menucostumes.png)
+
+
+
+
 
 ![Import Costumes](importcostumes.png)
 
