@@ -3,17 +3,23 @@
 
 In this lab, you will use costumes and movement to create simple SNAP animations. You will also use broadcast and receive blocks to trigger actions in sprites.
 
+Before you get started on this lab, be sure to preview the Student Notes for this lesson!
+
 ## Minimum Viable Product: Run, Spot, Run!
 
 1) In a SNAP project, click on the Costumes tab. Then, click on the file menu and choose the "Costumes" option. Import the costumes "dog2-a" and "dog2-b".
 
-![Illustration of the Costumes tab, File menu, and Costumes option](Costumes_tab.png)
+|![Image of Snap window](Costumes_tab.PNG)|
+|:--:| 
+|*Illustration of the Costumes tab, File menu, and Costumes option*|
 
-![Illustration of how to import a costume. In this picture, the "Dog2 a" costume has already been imported. The user is about to import the "Dog 2b" costume.(dog_costumes.png)
+![Image of Snap window](dog_costumes.png)
+|:--:| 
+|*Illustration of how to import a costume. In this picture, the "Dog2 a" costume has already been imported. The user is about to import the "Dog 2b" costume*|
 
-1.2) Write a script to make the sprite change costume each time the space bar is pressed. The sprite should switch back and forth between the two costumes.
+2) Write a script to make the sprite change costume each time the space bar is pressed. The sprite should switch back and forth between the two costumes.
 
-1.3) Add code so that the sprite will face to the left, move a few steps, and change costume when the left arrow key is pressed. If you've done it right, it should look like the dog is walking when you press the left arrow key repeatedly.
+3) Add code so that the sprite will face to the left, move a few steps, and change costume when the left arrow key is pressed. If you've done it right, it should look like the dog is walking when you press the left arrow key repeatedly.
 
 1.4) Add code so that the dog can walk to the right as well.
 
