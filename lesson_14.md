@@ -29,21 +29,16 @@ Students will be able to...
     - Ask students to complete [Do Now 1.4: Example Animation](do_now_14.md). 
 
 2.  Think, Pair, Share
-    -  Ask pairs of students to share their ideas for the first five steps needed to create the bat project from Do Now 1.4 from scratch. Point out any differences in their answers, and emphasize there is more than one correct answer.
+    -  Ask pairs of students to think, pair, and share ideas for the first five steps needed to create the bat project from Do Now 1.4 from scratch. Point out any differences in their answers, and emphasize there is more than one correct answer.
 
 3.  Lab Preview
     -  Review the Learning Objectives for Lab 1.4 
-    -  Preview the following features of Snap and let students know they will fully explore each feature during Lab 1.4. 
-        - Broadcast and Receive blocks
-        - Costumes tab 
+    -  Briefly preview the following features of Snap and let students know they will fully explore each feature during Lab 1.4:
+        - Broadcast and receive blocks
+        - Costumes tab
         - Sprite Corral
-        (Note: Be sure to point out the toolbars in the Costumes tab and the Sprite Corral. Also be sure to point out the different menu options that are available when you right-click a costume icon in the Costumes tab, Stage, and Sprite Corral).    
-       
-    3.  It's worthwhile to introduce the rotate buttons located at the top left of the SNAP interface. These buttons allow you to snap (puns!) your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
-
-    ![rotate buttons](rotateButton.PNG)
-
-
+        (Note: Be sure to point out the toolbars in the Costumes tab and the Sprite Corral. Also be sure to point out the different menu options that are available when you right-click a costume icon in the Costumes tab, Stage, and Sprite Corral).       
+    
 2.  Activity
     -   Students should complete the ["Sprites in Action"](lab_14.md) lab individually.
         -   Ensure that students create two different sprites for parts 1 and 2 so they do not get the costumes mixed up.
