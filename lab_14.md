@@ -7,29 +7,25 @@ Before you get started on this lab, be sure to preview the Student Notes for thi
 
 ## Minimum Viable Product: Run, Spot, Run!
 
-1) In a SNAP project, click on the Costumes tab. Then, click on the file menu and choose the "Costumes" option. Import the costumes "dog2-a" and "dog2-b".
+1a) In a SNAP project, click on the Costumes tab. Then, click on the file menu and choose the "Costumes" option. 
 
-|![Image of Snap window](Costumes_tab.PNG)|
-|:--:| 
-|*Illustration of the Costumes tab, File menu, and Costumes option*|
+|![Illustration of the Costumes tab, File menu, and Costumes option](Costumes_tab.PNG)|
 
-![Image of Snap window](dog_costumes.png)
-|:--:| 
-|*Illustration of how to import a costume. In this picture, the "Dog2 a" costume has already been imported. The user is about to import the "Dog 2b" costume*|
+1b) Import the costumes "dog2-a" and "dog2-b".
+
+![IIllustration of how to import a costume. In this picture, the "Dog2 a" costume has already been imported. The user is about to import the "Dog 2b" costume](dog_costumes.png)
 
 2) Add code so that the sprite changes to the next costume each time the left arrow key is pressed. 
 
 3) Add code so that the sprite does the following when you press the left arrow key:
   - Faces to the left
-  > *Hint: The Student Notes for this lesson explain how to use the rotation buttons in the Costumes tab toolbar to make sure a sprite only points in certain directions!*
-  - Moves a few steps to the left
-  > *Hint: It should look like the dog is walking when you press the left arrow key repeatedly!*
+  - Moves 10 steps forward 
+  > *Hint: The rotation buttons in the Costumes tab toolbar can be used to control how a sprite rotates!
 
 4) Add code so that if the dog reaches the edge of the stage, it bounces.
   >*Hint: You will need one of the blocks in the "Motion" category for this!
 
-(STOPPED HERE - NEXT STEP WILL BE TO ADD DIRECTIONS TO DUPLICATE SCRIPT FOR RIGHT ARROW KEY)
-5) 
+5) Right click on the script you created and choose the "Dupl
 
 ## 2. Here be Dragons!
 
