@@ -25,7 +25,9 @@ Before you get started on this lab, be sure to preview the Student Notes for thi
 4) Add code so that if the dog reaches the edge of the stage, it bounces.
   >*Hint: You will need one of the blocks in the "Motion" category for this!
 
-5) Right click on the script you created and choose the "Dupl
+5) Right click on the script you created and choose the "Duplicate" option. This should create a second script that is identical to the script you created in step #2-5.
+
+6) Modify the new script so the sprite faces right and moves to the right when you press the right arrow key.
 
 ## 2. Here be Dragons!
 
