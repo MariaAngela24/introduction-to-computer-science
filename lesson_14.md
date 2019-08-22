@@ -54,6 +54,8 @@ Students will be able to...
     
 2.  **Pair-Programming** 
     -   Students should complete the ["Sprites in Action"](lab_14.md) lab in pairs.
+        -   Remind students of the pair programming guidelines, and be sure they change roles in between each part of the assignment.
+        -   Try to check-in with each pair of students at least twice. Each partner should be able to explain their code in a way that demonstrates understanding of the learning objectives.
         -   Ensure that students create two different sprites for parts 1 and 2 so they do not get the costumes mixed up.
         -   Students can submit the assignment using your turn-in procedures or you can check off the work as students complete it.
         
