@@ -29,13 +29,13 @@ Before you get started on this lab, be sure to preview the Student Notes for thi
 
 6) Modify the new script so the sprite faces right and moves to the right when you press the right arrow key.
 
-## 2. Here be Dragons!
+## Version 1. Here be Dragons!
 
-2.1) Create a new sprite. Following the same steps as in part 1.1, import the costumes "dragon1-a" and "dragon1-b"
+7) Create a new sprite. Following the same steps as in part 1a and 1b, import the costumes "dragon1-a" and "dragon1-b"
 
-2.2) Write a script to make the sprite appear to breathe fire when the 'f' key is pressed.  The sprite should switch to the "fire-breathing" costume for a few seconds, then switch back to the "normal" costume.
+8) Write a script to make the sprite appear to breathe fire when the 'f' key is pressed.  The sprite should switch to the "fire-breathing" costume for a few seconds, then switch back to the "normal" costume.
 
-2.3) Modify your code so that the dragon "attacks" the mouse pointer when the 'f' key is pressed. When the 'f' key is pressed, the dragon should take the following actions in order:
+9) Modify your code so that the dragon "attacks" the mouse pointer when the 'f' key is pressed. When the 'f' key is pressed, the dragon should take the following actions in order:
 
 -   Make sure it is in the "normal" costume
 -   Point at the mouse pointer
@@ -44,15 +44,15 @@ Before you get started on this lab, be sure to preview the Student Notes for thi
 -   Pause to breathe fire
 -   Change back to the "normal" costume
 
-## 3. Run Away!
+## Version 2. Run Away!
 
-3.1) Add another sprite to your program.  (This sprite can have any costume you choose.)
+10) Add another sprite to your program.  (This sprite can have any costume you choose.)
 
-3.2) Write a script to make this new sprite point away from the dragon and move when the 'r' key is pressed.  (You'll need more than one block to do this.)
+11) Write a script to make this new sprite point away from the dragon and move when the 'r' key is pressed.  (You'll need more than one block to do this.)
 
-3.3) Modify your code so that instead of moving when the 'r' key is pressed, the new sprite moves when the dragon "attacks."  The "fleeing" sprite should move when the dragon starts breathing fire.
+12) Modify your code so that instead of moving when the 'r' key is pressed, the new sprite moves when the dragon "attacks."  The "fleeing" sprite should move when the dragon starts breathing fire.
 
-3.4) Add a second sprite that runs away from the dragon as well.
+13) Add a second sprite that runs away from the dragon as well.
 
 ## Grading Scheme/Rubric
 
