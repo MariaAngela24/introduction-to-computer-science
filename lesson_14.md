@@ -19,7 +19,7 @@ Students will be able to...
 | Duration   | Description                                   |
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, individual activity (Do Now 1.4)|
-| 10 minutes | Announcements, think-pair-share (Do Now 1.4)  |
+| 10 minutes | Announcements; Think, pair, share (Do Now 1.4)  |
 | 5 minutes | Preview (Lab 1.4) |
 | 25 minutes | Pair-programming (Lab 1.4) |
 | 10 minutes | Debrief (Lab 1.4)  |
@@ -31,8 +31,10 @@ Students will be able to...
 1.  **Individual activity (5 minutes)** 
     - Ask students to work individually on [Do Now 1.4: Example Animation](do_now_14.md). 
 
-2.  **Think-pair-share (10 minutes)** 
-    - Give students a minute to think individually about the last question on Do Now 1.4. Then, ask them to share their ideas with a partner. Finally, ask partners to share their ideas with the class. Be sure to point out any differences in students' answers, and emphasize that nearly all computer science problems have more than one correct answer.
+2.  **Debrief (10 minutes)** 
+    - Ask students to think individually about the questions below. Then, ask them to share their ideas with a partner. Finally, ask partners to share their ideas with the class. 
+    *"What did you observe about what happens to the bats when you press the space bar? Which scripts caused that to happen, and how do those scripts work?"
+    
 
 ### Lab 1.4: Sprites in Action ###
 
