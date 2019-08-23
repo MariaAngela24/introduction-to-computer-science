@@ -33,20 +33,20 @@ Students will be able to...
 
 2.  **Debrief (10 minutes)** 
     - Ask students to think individually about the questions below. Then, ask them to share their ideas with a partner. Finally, ask partners to share their ideas with the class. 
-    *"What did you observe about what happens to the bats when you press the space bar? Which scripts caused that to happen, and how do those scripts work?"
+    >*"What did you observe about what happens to the bats when you press the space bar? Which scripts caused that to happen, and how do those scripts work?"
     
 
 ### Lab 1.4: Sprites in Action ###
 
 1.  **Preview** 
-    -  State the Learning Objectives for Lab 1.4 
+    -  Let students know that the sample project from the Do Now is an example of both of the Learning Objectives for Lab 1.4. Then, state the learning objectives and display them to the students.
         -   Animate SNAP sprites using costume changes and movement
         -   Use broadcast and receive blocks to trigger actions in sprites. 
     -  Briefly preview the following new vocabulary words:
-        - Animation
-        - Costume
-        - Broadcast block
-        - Receive block
+        - Animation - A method in which pictures are manipulated to appear as moving images
+        - Costume - A costume is one out of possibly many "frames" or alternate appearances of a sprite.
+        - Broadcast block - Code block in the "Control" category that sends a message to another block
+        - Receive block - Code block in the "Control" category that receives a message from another block
         (Note: Remind students that they can use the Glossary to look up words they don't know. If you have a Word Wall, point out the location of the new vocabulary terms for this lesson.)
     - Briefly preview the following new features of Snap:
         - Broadcast and receive blocks
