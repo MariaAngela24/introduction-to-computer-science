@@ -32,7 +32,7 @@ Students will be able to...
     - Ask students to work individually on [Do Now 1.4: Example Animation](do_now_14.md). 
 
 2.  **Debrief (10 minutes)** 
-    - Ask students to think individually about the questions below. Then, ask them to share their ideas with a partner. Finally, ask partners to share their ideas with the class. 
+    - Display the questions below for students, and ask students to think individually about the answers. Then, ask them to share their ideas with a partner. Finally, ask partners to share their ideas with the class. 
     >*"What did you observe about what happens to the bats when you press the space bar? Which scripts caused that to happen, and how do those scripts work?"
     
 
@@ -48,11 +48,12 @@ Students will be able to...
         - Broadcast block - Code block in the "Control" category that sends a message to another block
         - Receive block - Code block in the "Control" category that receives a message from another block
         (Note: Remind students that they can use the Glossary to look up words they don't know. If you have a Word Wall, point out the location of the new vocabulary terms for this lesson.)
-    - Briefly preview the following new features of Snap:
-        - Broadcast and receive blocks
-        - Costumes tab
-        - Sprite Corral
-        (Note: Be sure to point out the toolbars for the Costumes tab and the Sprite Corral. Also be sure to point out the difference between the menu options that are available when you right-click a costume icon in the Costumes tab, Stage, or Sprite Corral).       
+    - Use the starter project from the Do Now to briefly preview the following new features of Snap:
+        - Location of the broadcast and receive blocks
+        - Costumes tab, including the toolbar
+        - Sprite Corral, including the toolbar
+        - Different menus that appear when you right-click the costume icon in the Costumes tab, Stage, or Sprite Corral
+        (Note: There is no need to go into extensive detail about these features since students will fully explore them during the lab. Just be sure students know how to locate them and ).       
     
 2.  **Pair-Programming** 
     -   Students should complete the ["Sprites in Action"](lab_14.md) lab in pairs.
