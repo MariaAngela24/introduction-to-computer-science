@@ -11,8 +11,8 @@
 
 4.  Use your mouse to point the cursor at one of the bats. Then, click the mouse button several times.  Notice what happens to the two bats on the screen.
 
-5.  Look at the scripts for this project. Explore all the parts of the Snap window, including the tabs at the top of the scripting area and the icons in the Sprite Corral. Try to figure out how the project works.
+5.  Take a look at all of the parts of the Snap window. Try to figure out how the project works.  Be sure to explore the tabs at the top of the scripting area and the icons in the Sprite Corral. 
 > *Hint: It may be helpful to activate "visual steps" with the footprint icon near the middle of the top toolbar.*
 
-**If there's still time, start reviewing the Student Notes for this lesson to learn how this project was created!**
+
 
