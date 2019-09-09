@@ -3,8 +3,6 @@
 
 In this lab, you will use costumes and movement to create simple SNAP animations. You will also use broadcast and receive blocks to trigger actions in sprites.
 
-Before you get started on this lab, be sure to preview the Student Notes for this lesson!
-
 ## Minimum Viable Product: Run, Spot, Run!
 
 1a) In a SNAP project, click on the Costumes tab. Then, click on the file menu and choose the "Costumes" option. 
@@ -31,11 +29,17 @@ Before you get started on this lab, be sure to preview the Student Notes for thi
 
 ## Version 1. Here be Dragons!
 
-7) Create a new sprite. Following the same steps as in part 1a and 1b, import the costumes "dragon1-a" and "dragon1-b"
+7) Create a new sprite. Place the new sprite in the top, left corner of the Stage.
 
-8) Write a script to make the sprite appear to breathe fire when the 'f' key is pressed.  The sprite should switch to the "fire-breathing" costume for a few seconds, then switch back to the "normal" costume.
+8) Following the same steps as in part 1a and 1b, import the costume "avery b." 
 
-9) Modify your code so that the dragon "attacks" the mouse pointer when the 'f' key is pressed. When the 'f' key is pressed, the dragon should take the following actions in order:
+STOPPED HERE - next step is add scripts for a conversation
+9) Write a script to make the sprite appear to breathe fire when the 'f' key is pressed.  The sprite should switch to the "fire-breathing" costume, wait a few seconds, then switch back to the "normal" costume.
+
+9) 
+
+
+Modify your code so that the dragon "attacks" the mouse pointer when the 'f' key is pressed. When the 'f' key is pressed, the dragon should take the following actions in order:
 
 -   Make sure it is in the "normal" costume
 -   Point at the mouse pointer
