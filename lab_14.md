@@ -46,7 +46,7 @@ Fido: Woof!
 ## Version 2: Fido obeys commands
 
 10) Modify your code so that Fido obeys Avery's command to "Come here." Right after Avery says this, Fido should turn toward Avery and move from wherever he is on the stage to a position in front of Avery.  
-  >*Hint: For now, Fido should glide to this position in 1 or 2 seconds.  However, if you finish early and want an extra challenge, add code so that Fido performs an animated walk while moving to the position in front of Avery.
+  >*Hint: For now, Fido should glide to this position in 1 or 2 seconds.  However, if you finish early and want an extra challenge, add code so that Fido performs an animated walk while moving to the position in front of Avery.*
 
 11) Think of another command to give Fido.  Add code so that Fido obeys that command.
 
