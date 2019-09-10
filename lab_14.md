@@ -3,7 +3,9 @@
 
 In this lab, you will use costumes and movement to create simple SNAP animations. You will also use broadcast and receive blocks to trigger actions in sprites.
 
-## Minimum Viable Product: Run, Spot, Run!
+Be sure to label each section of code with the problem number and a short explanation of what that section of code does.  
+
+## Minimum Viable Product: Walking the dog
 
 1a) In a SNAP project, click on the Costumes tab. Then, click on the file menu and choose the "Costumes" option. 
 
@@ -27,44 +29,35 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 
 6) Modify the new script so the sprite faces right and moves to the right when you press the right arrow key.
 
-## Version 1. Here be Dragons!
+## Version 1: Talking to Fido
 
 7) Create a new sprite. Place the new sprite in the top, left corner of the Stage.
 
 8) Following the same steps as in part 1a and 1b, import the costume "avery b." 
 
-STOPPED HERE - next step is add scripts for a conversation
-9) Write a script to make the sprite appear to breathe fire when the 'f' key is pressed.  The sprite should switch to the "fire-breathing" costume, wait a few seconds, then switch back to the "normal" costume.
+9) Add code so that if you press the space bar, Avery and the dog have a conversation. Use the dialogue below:
 
-9) 
+Avery: Come here, Fido!
+Fido: Woof!
+Avery: Who's a good boy?
+Fido: Woof!
+  >*Hint: You can use the "broadcast and wait" block and the "receive" block to create conversations between sprites! See page 8 of the [SNAP Reference Manual](https://snap.berkeley.edu/snapsource/help/SnapManual.pdf) for an explanation and example of how to do this.*
+  
+## Version 2: Fido obeys commands
 
+10) Modify your code so that Fido obeys Avery's command to "Come here." Right after Avery says this, Fido should turn toward Avery and move from wherever he is on the stage to a position in front of Avery.  
+  >*Hint: For now, Fido should glide to this position in 1 or 2 seconds.  However, if you finish early and want an extra challenge, add code so that Fido performs an animated walk while moving to the position in front of Avery.
 
-Modify your code so that the dragon "attacks" the mouse pointer when the 'f' key is pressed. When the 'f' key is pressed, the dragon should take the following actions in order:
+11) Think of another command to give Fido.  Add code so that Fido obeys that command.
 
--   Make sure it is in the "normal" costume
--   Point at the mouse pointer
--   Glide to the mouse pointer's position
--   Change to the "fire-breathing" costume
--   Pause to breathe fire
--   Change back to the "normal" costume
+## Version 3: Fido chases the ball
 
-## Version 2. Run Away!
+12) Create a new sprite. Import one of the ball costumes. 
 
-10) Add another sprite to your program.  (This sprite can have any costume you choose.)
+13) Add code so that when you press the "r" key, the ball goes to a random position on the stage.
 
-11) Write a script to make this new sprite point away from the dragon and move when the 'r' key is pressed.  (You'll need more than one block to do this.)
+14) Add code so that when you press the "m" key, the ball goes to the position of the mouse pointer.
 
-12) Modify your code so that instead of moving when the 'r' key is pressed, the new sprite moves when the dragon "attacks."  The "fleeing" sprite should move when the dragon starts breathing fire.
+15) Add code so that Fido glides or walks to the same position as the ball each time it moves.
 
-13) Add a second sprite that runs away from the dragon as well.
-
-## Grading Scheme/Rubric
-
-| **Lab 1.4 Criteria**                              |                |
-| ------------------------------------------------- | -------------- |
-| 2.2 Dragon breathes fire                          | 0.25 points    |
-| 2.3 Dragon attacks mouse pointer correctly        | 0.75 points    |
-| 3.2 A sprite runs away from dragon                | 0.25 points    |
-| 3.3 Sprite runs away when dragon breathes fire    | 0.5 points     |
-| 3.4 Another sprite runs away too                  | 0.25 points    |
-| **PROJECT TOTAL**                                 | **2.0 points** |
+16) Create a new animation for this project, or start a new one! Be sure all of the required steps for this lab are still visible and labeled with a comment.
